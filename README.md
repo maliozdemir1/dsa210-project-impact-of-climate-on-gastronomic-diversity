@@ -7,7 +7,7 @@ This study investigates whether and how regional climate conditions influence th
 The underlying hypothesis is that climate acts as an environmental driver, shaping culinary patterns, which in turn reflect in the caloric profile of regional diets.
 
 ---
-## 🍀 Motivation  
+## 3. Motivation  
 
 As a student who is coming from a gastronomically rich city -Afyonkarahisar-, I’ve always been fascinated by how geography and environment shape what people eat. For example, in Afyon the main dietary plans are based on calorie-densed dishes like Bükme, Katmer or Lokul classified as pastry and bakery. Compared to Afyon, my second home city -İzmir- prefers lighter and low-calorie meals like vegetable dishes more often. Then, I realized throughout the travels between Afyon and İzmir that there might correlations between caloric intensity of the foods and geographical features of the regions in our country.
 
@@ -45,3 +45,32 @@ In order to maintain this analysis, we will use these datasets and sources:
  **Food Composition Data**: Average energy values (kcal/100 g) by food category to compute the Caloric Gastronomic Index [TURKOMP](https://www.turkomp.gov.tr/) & [USDA FoodData Central](https://fdc.nal.usda.gov/) 
  
  **Control Variables**: Provincial data such as urbanization rate, tourism density, population density  [Turkish Statistical Institute (TÜİK)](https://data.tuik.gov.tr/) 
+ 
+---
+
+## 6. Planned Analysis  
+
+Once I collect and clean the data, I’ll explore how regional climate indicators — such as average temperature and precipitation — are related to the caloric intensity and food-type composition of traditional cuisines across Turkey.  
+
+Here’s how I plan to approach the analysis:  
+ 
+
+- **1. Categorization & Index Calculation:**  
+  Traditional foods will be categorized into main groups (meat-based, vegetable-based, pastry, dessert, soup), and each province’s *Caloric Gastronomic Index (CGI)* will be computed to represent its average caloric intensity.  
+
+- **2. Climate Integration & Statistical Testing:**  
+  Climate indicators (temperature, precipitation) will be merged with provincial CGI data. Statistical tests (Pearson/Spearman correlations) will determine whether colder or more humid regions have significantly higher caloric cuisines.
+
+  - **3. Exploratory Data Analysis (EDA):**  
+  I will begin by examining the distributions of climate variables and caloric data, looking for general patterns. Correlation matrices, scatter plots, and choropleth maps will help visualize potential climate–cuisine relationships across provinces.
+
+- **4. Cluster Analysis (Regional Profiling):**  
+  Using K-Means or Hierarchical Clustering, I’ll group provinces based on their climate–gastronomy profiles to see whether distinct culinary clusters emerge (e.g., “Cold–High Calorie,” “Warm–Light Cuisine”).  
+
+- **5. Regression Modeling (ML-based analysis):**  
+  A multiple linear regression model will be developed to quantify how much of the variation in CGI can be explained by climate factors. Additional models (like Random Forest Regressor or Ridge Regression) may be tested to check robustness and capture non-linear effects.  
+
+- **6. Interpretation & Visualization:**  
+  Finally, results will be visualized through interactive maps, correlation heatmaps, and regression plots to communicate insights clearly.  
+
+This approach will not only test the main hypothesis but also help reveal broader patterns about how environmental conditions might shape gastronomic diversity across cities. Depending on data quality, future work could extend the model to include nutritional balance or sustainability dimensions.
