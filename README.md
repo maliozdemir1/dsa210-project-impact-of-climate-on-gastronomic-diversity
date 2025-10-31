@@ -7,14 +7,24 @@ This study investigates whether and how regional climate conditions influence th
 The underlying hypothesis is that climate acts as an environmental driver, shaping culinary patterns, which in turn reflect in the caloric profile of regional diets.
 
 ---
+## 🍀 Motivation  
 
-## 2. Research Questions  
+As a student who is coming from a gastronomically rich city, Afyonkarahisar, I’ve always been fascinated by how geography and environment shape what people eat. For example, in Afyon the main dietary plans are based on calorie-densed dishes like Bükme, Katmer or Lokul classified as pastry and bakery. Compared to Afyon, my second home city İzmir prefers lighter and low-calorie meals like vegetable dishes more often. Then, I realized throughout the travels between Afyon and İzmir that there might correlations between caloric intensity of the foods and geographical features of the regions in our country.
+
+This observation led me to wonder whether these gastronomic differences are random cultural choices or if they have deeper environmental roots — specifically, whether climate conditions such as temperature and humidity have influenced the evolution of regional cuisines in Turkey.  
+
+By analyzing this relationship, I aim to explore how environmental factors can shape long-term dietary patterns, while also strengthening my skills in data preprocessing, visualization, and regression modeling using real-world open datasets. 
+
+Note: I want to use these analysis while I'm going to open my dream restaurant in the future as a student who is crazy about food.
+
+---
+## 3. Research Questions  
 - **RQ1:** Do provinces with colder and/or more humid climates tend to have more calorie-dense -meat-based, pastry-heavy- traditional cuisines compared to warmer regions?  
 - **RQ2:** How strongly are climatic indicators like average temperature, annual precipitation correlated with the “Caloric Gastronomic Index” of a region?  
 
 ---
 
-## 3. Hypotheses  
+## 4. Hypotheses  
 
 **Null Hypothesis 1 (H₀₁):** Regional climate conditions do not have a significant impact on the caloric intensity of traditional cuisines.  
 **Alternative Hypothesis 1 (H₁₁):** Colder or more humid regions have significantly higher caloric intensity in their traditional cuisines compared to warmer regions.  
@@ -24,7 +34,7 @@ The underlying hypothesis is that climate acts as an environmental driver, shapi
 
 ---
 
-## 4. Datasets & Sources  
+## 5. Datasets & Sources  
 
 In order to maintain this analysis, we will use these datasets and sources:
 
