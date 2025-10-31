@@ -29,6 +29,9 @@ The underlying hypothesis is that climate acts as an environmental driver, shapi
 In order to maintain this analysis, we will use these datasets and sources:
 
  **Traditional Food Data**: List of regional traditional foods by province, categorized by type  [Turkish Patent and Trademark Office – Geographical Indications Database](https://ci.turkpatent.gov.tr/) 
+ 
  **Climate Data**: Provincial average annual climate indicators taken from Turkish State Meteorological Service (MGM) / [Open-Meteo API](https://open-meteo.com/) 
+ 
  **Food Composition Data**: Average energy values (kcal/100 g) by food category to compute the Caloric Gastronomic Index [TURKOMP](https://www.turkomp.gov.tr/) & [USDA FoodData Central](https://fdc.nal.usda.gov/) 
+ 
  **Control Variables**: Provincial data such as urbanization rate, tourism density, population density  [Turkish Statistical Institute (TÜİK)](https://data.tuik.gov.tr/) 
