@@ -1,4 +1,4 @@
-# 🍽️ Impact of Climate and Weather Conditions on Regional Gastronomic Diversity in Turkey
+# Impact of Climate and Weather Conditions on Regional Gastronomic Diversity in Turkey
 
 This project explores the relationship between Turkey’s diverse climatic conditions and its regional food culture using data-driven methods.
 
@@ -46,7 +46,7 @@ In order to maintain this analysis, we will use these datasets and sources:
  
 ---
 
-## 6. Planned Analysis  
+## 6. Analysis Plan  
 
 Once I collect and clean the data, I’ll explore how regional climate indicators — such as average temperature and precipitation — are related to the caloric intensity and food-type composition of traditional cuisines across Turkey.  
 
