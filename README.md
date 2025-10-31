@@ -15,8 +15,12 @@ The underlying hypothesis is that climate acts as an environmental driver, shapi
 ---
 
 ## 3. Hypotheses  
-- **H₀:** There is no significant relationship between regional climate indicators and the caloric intensity of traditional cuisines.  
-- **H₁:** Regional climate indicators (lower average temperatures, higher precipitation) are positively correlated with higher caloric intensity of traditional cuisines.
+
+**Null Hypothesis 1 (H₀₁):** Regional climate conditions (average temperature, precipitation) do not have a significant impact on the caloric intensity of traditional cuisines.  
+**Alternative Hypothesis 1 (H₁₁):** Colder or more humid regions have significantly higher caloric intensity in their traditional cuisines compared to warmer regions.  
+
+**Null Hypothesis 2 (H₀₂):** The type distribution of regional cuisines (meat-based, vegetable-based, pastry, dessert, etc.) is independent of regional climate conditions.  
+**Alternative Hypothesis 2 (H₁₂):** Climate conditions significantly influence the type distribution of traditional foods (e.g., colder regions exhibit more meat-based and pastry-heavy cuisines). 
 
 ---
 
