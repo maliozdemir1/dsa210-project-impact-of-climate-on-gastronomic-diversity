@@ -44,8 +44,6 @@ In order to maintain this analysis, we will use these datasets and sources:
  
  **Food Composition Data**: Average energy values (kcal/100 g) by food category to compute the Caloric Gastronomic Index [TURKOMP](https://www.turkomp.gov.tr/), [USDA FoodData Central](https://fdc.nal.usda.gov/), [MyFitnessPal](https://www.myfitnesspal.com/), [FatSecret](https://www.fatsecret.com/)
  
- **Control Variables**: Provincial data such as urbanization rate, tourism density, population density  [Turkish Statistical Institute (TÜİK)](https://data.tuik.gov.tr/) 
- 
 ---
 
 ## 6. Planned Analysis  
