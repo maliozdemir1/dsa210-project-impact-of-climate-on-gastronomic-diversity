@@ -59,7 +59,7 @@ Here’s how I plan to approach the analysis:
 - **2. Climate Integration & Statistical Testing:**  
   Climate indicators (temperature, precipitation) will be merged with provincial CGI data. Statistical tests (Pearson/Spearman correlations) will determine whether colder or more humid regions have significantly higher caloric cuisines.
 
-  - **3. Exploratory Data Analysis (EDA):**  
+- **3. Exploratory Data Analysis (EDA):**  
   I will begin by examining the distributions of climate variables and caloric data, looking for general patterns. Correlation matrices, scatter plots, and choropleth maps will help visualize potential climate–cuisine relationships across provinces.
 
 - **4. Cluster Analysis (Regional Profiling):**  
