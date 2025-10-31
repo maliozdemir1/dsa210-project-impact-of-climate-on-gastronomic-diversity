@@ -9,7 +9,7 @@ The underlying hypothesis is that climate acts as an environmental driver, shapi
 ---
 ## 🍀 Motivation  
 
-As a student who is coming from a gastronomically rich city, Afyonkarahisar, I’ve always been fascinated by how geography and environment shape what people eat. For example, in Afyon the main dietary plans are based on calorie-densed dishes like Bükme, Katmer or Lokul classified as pastry and bakery. Compared to Afyon, my second home city İzmir prefers lighter and low-calorie meals like vegetable dishes more often. Then, I realized throughout the travels between Afyon and İzmir that there might correlations between caloric intensity of the foods and geographical features of the regions in our country.
+As a student who is coming from a gastronomically rich city -Afyonkarahisar-, I’ve always been fascinated by how geography and environment shape what people eat. For example, in Afyon the main dietary plans are based on calorie-densed dishes like Bükme, Katmer or Lokul classified as pastry and bakery. Compared to Afyon, my second home city -İzmir- prefers lighter and low-calorie meals like vegetable dishes more often. Then, I realized throughout the travels between Afyon and İzmir that there might correlations between caloric intensity of the foods and geographical features of the regions in our country.
 
 This observation led me to wonder whether these gastronomic differences are random cultural choices or if they have deeper environmental roots — specifically, whether climate conditions such as temperature and humidity have influenced the evolution of regional cuisines in Turkey.  
 
