@@ -7,7 +7,7 @@ This study investigates whether and how regional climate conditions influence th
 The underlying hypothesis is that climate acts as an environmental driver, shaping culinary patterns, which in turn reflect in the caloric profile of regional diets.
 
 ---
-## 3. Motivation  
+## 2. Motivation  
 
 As a student who is coming from a gastronomically rich city -Afyonkarahisar-, I’ve always been fascinated by how geography and environment shape what people eat. For example, in Afyon the main dietary plans are based on calorie-densed dishes like Bükme, Katmer or Lokul classified as pastry and bakery. Compared to Afyon, my second home city -İzmir- prefers lighter and low-calorie meals like vegetable dishes more often. Then, I realized throughout the travels between Afyon and İzmir that there might correlations between caloric intensity of the foods and geographical features of the regions in our country.
 
