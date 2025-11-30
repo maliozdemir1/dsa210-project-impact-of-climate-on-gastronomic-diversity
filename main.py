@@ -7,9 +7,7 @@ import statsmodels.api as sm
 def tum_kategorilerle_analiz():
     print("🚀 Analiz Başlatılıyor... Filtreler Kaldırıldı, TÜM VERİ Kullanılıyor...\n")
 
-    # -------------------------------------------------------------------------
-    # 1. DOSYALARI YÜKLEME
-    # -------------------------------------------------------------------------
+
     try:
         df_food = pd.read_excel("kaloriler manual.xlsx")
         df_food.columns = df_food.columns.str.strip()
@@ -29,9 +27,7 @@ def tum_kategorilerle_analiz():
         print(f"❌ Dosya Hatası: {e}")
         return
 
-    # -------------------------------------------------------------------------
-    # 2. VERİ BİRLEŞTİRME
-    # -------------------------------------------------------------------------
+
     df_food['İl'] = df_food['İl'].astype(str).str.strip().str.title()
     df_climate['İl'] = df_climate['İl'].astype(str).str.strip().str.title()
 
@@ -41,9 +37,7 @@ def tum_kategorilerle_analiz():
     print("📦 En popüler kategoriler:")
     print(df_final['Ürün Grubu'].value_counts().head(10))
 
-    # -------------------------------------------------------------------------
-    # 3. OLS REGRESYON
-    # -------------------------------------------------------------------------
+
     print("\n📊 --- OLS REGRESYON SONUCU ---")
     try:
         X = sm.add_constant(df_final['Ort_Sicaklik'])
@@ -53,13 +47,11 @@ def tum_kategorilerle_analiz():
     except:
         print("OLS çalıştırılırken hata oluştu.")
 
-    # -------------------------------------------------------------------------
-    # 4. GRAFİKLER
-    # -------------------------------------------------------------------------
+
     sns.set_theme(style="whitegrid")
 
 
-    # ------------------------- Grafik 1 -------------------------
+
     print("\n📈 Grafik 1: Regresyon Plot")
     g = sns.jointplot(
         x="Ort_Sicaklik", y=cal_col, data=df_final, kind="reg",
@@ -69,7 +61,7 @@ def tum_kategorilerle_analiz():
     plt.show()
 
 
-    # ------------------------- Grafik 2 -------------------------
+
     print("🎻 Grafik 2: En Popüler 8 Kategorinin İklim Dağılımı")
     plt.figure(figsize=(16, 8))
     top_cats = df_final['Ürün Grubu'].value_counts().head(8).index
@@ -80,7 +72,7 @@ def tum_kategorilerle_analiz():
     plt.show()
 
 
-    # ------------------------- Grafik 3 -------------------------
+
     print("📊 Grafik 3: İklim Bölgelerine Göre Ortalama Kalori")
     plt.figure(figsize=(10, 6))
     df_final['Sicaklik_Grubu'] = pd.cut(
@@ -91,7 +83,7 @@ def tum_kategorilerle_analiz():
     plt.show()
 
 
-    # ------------------------- Grafik 4 -------------------------
+
     print("🔥 Grafik 4: Kategori - Bölgesel Kalori Heatmap")
     plt.figure(figsize=(12, 8))
     pivot = df_final[df_final['Ürün Grubu'].isin(top_cats)].pivot_table(
@@ -102,7 +94,7 @@ def tum_kategorilerle_analiz():
     plt.show()
 
 
-    # ------------------------- Grafik 5 -------------------------
+
     print("🌡 Grafik 5: Sıcaklık - Kalori Bubble Chart")
     plt.figure(figsize=(12, 6))
     sns.scatterplot(
@@ -117,7 +109,7 @@ def tum_kategorilerle_analiz():
     plt.show()
 
 
-    # ------------------------- Grafik 6 -------------------------
+ 
     print("📍 Grafik 6: İl Bazlı Kalori Barplot")
     df_il = df_final.groupby("İl")[cal_col].mean().sort_values()
     plt.figure(figsize=(10, 20))
@@ -126,7 +118,7 @@ def tum_kategorilerle_analiz():
     plt.show()
 
 
-    # ------------------------- Grafik 7 -------------------------
+   
     print("🧊 Grafik 7: Pairplot Korelasyon")
     sns.pairplot(df_final[["Kalori", "Ort_Sicaklik", "Yagis_Miktari"]], kind="reg")
     plt.show()
