@@ -1,0 +1,1515 @@
+﻿food_name,province,tp_group,kcal_group,kcal_100g,n_samples,std_kcal
+Adana Yer Fıstığı,Adana,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kuytucak Narı,Adana,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Adana Kol Böreği,Adana,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Adana Analı Kızlı,Adana,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Adana Aşlama,Adana,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Adana Bici Bici,Adana,Dondurmalar ve yenilebilir buzlar,dondurmalar,145.5,2,43.1335136523794
+Adana Halka Tatlısı,Adana,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Adana Karakuş Tatlısı,Adana,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Adana Karpuzu,Adana,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Adana Kebabı,Adana,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kozan Portakalı,Adana,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Pozantı Çileği,Adana,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Adana İçli Köfte,Adana,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Adana Şalgamı,Adana,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Adana Şırdan,Adana,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tufanbeyli Kuru Fasulyesi,Adana,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Karaisalı Biberi,Adana,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Karataş Kıddesi,Adana,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Adana Taş Kadayıfı,Adana,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Adıyaman Besni Üzümü,Adıyaman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Adıyaman Tut Dutu,Adıyaman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kahta Bulgur Pilavı,Adıyaman,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Adıyaman Etsiz Çiğ Köfte,Adıyaman,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kahta Narı,Adıyaman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kahta Bademli İrmik Helvası,Adıyaman,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kahta Bademi,Adıyaman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Afyon Lokumu,Afyonkarahisar,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Afyon Manda Yoğurdu / Afyonkarahisar Manda Yoğurdu,Afyonkarahisar,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Afyon Pastırması,Afyonkarahisar,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Afyon Patlıcan Böreği,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyon Sakala Çarpan Çorbası / Afyonkarahisar Sakala Çarpan Çorbası,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyon Sucuğu,Afyonkarahisar,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Afyon Tandır Çorbası / Afyonkarahisar Tandır Çorbası,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyon Velense Hamur Aşı / Afyonkarahisar Velense Hamur Aşı,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyon Ağzıaçığı,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyonkarahisar Ak Pide / Afyonkarahisar Tırnak Pidesi,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyonkarahisar Haşhaşlı Katmer,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyonkarahisar Hurma Baklavası / Afyon Hurma Baklavası,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyonkarahisar Mercimekli Pilav / Afyon Mercimekli Pilav,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyonkarahisar Nişan Kurabiyesi / Afyonkarahisar Gelin Kurabiyesi,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyonkarahisar Patatesli Ekmeği,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyonkarahisar Çullama Köfte,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyonkarahisar Övmesi / Afyon Övmesi,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyon Bükmesi,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyon İlibada Sarması/Afyon İlibada Dolması/Afyonkarahisar İlibada Sarması/Afyonkarahisar İlibada Dolması,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sandıklı Haşhaş Ezmesi,Afyonkarahisar,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Afyon Kebabı,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyonkarahisar Göce Köftesi / Afyon Göce Köftesi,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyon Kaymağı,Afyonkarahisar,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Afyonkarahisar Haşhaş Ezmesi,Afyonkarahisar,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Emirdağ Dolgulu Köftesi,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Afyon Kaymaklı Ekmek Kadayıfı,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Afyon Dana Tandır / Afyonkarahisar Dana Tandır,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Emirdağ Yumurtalı Pidesi,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sultandağı Gılli Kirazı,Afyonkarahisar,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sandıklı Saç Eti,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sandıklı Leblebisi,Afyonkarahisar,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sandıklı Kürek Helvası,Afyonkarahisar,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Sandıklı Kapama Yemeği,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sandıklı Haşhaşlı Tahinli Pidesi,Afyonkarahisar,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Nuribey Mor Mozaik Kestane Kabağı,Afyonkarahisar,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sandıklı Alacaşı,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bolvadin Mantısı,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bolvadin Fırın Eti,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Dinar Taptama Köfte / Dinar Taplama Köfte,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çay İlçesi Vişnesi,Afyonkarahisar,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Şuhut Keşkeği,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karacalar Üzümü,Afyonkarahisar,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Şuhut Patatesi,Afyonkarahisar,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Emirdağ Koyun Yoğurdu,Afyonkarahisar,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+İscehisar Mermer Kebabı,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Emirdağ Güveci,Afyonkarahisar,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sultandağı Kirazı,Afyonkarahisar,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Aksaray Un Kurabiyesi / Aksaray Asker Kurabiyesi,Aksaray,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aksaray Çerezlik Ayçekirdeği,Aksaray,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Aksaray İnceelek Tatlısı,Aksaray,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aksaray Şerbetli Pidesi,Aksaray,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aksaray Şeker Böreği,Aksaray,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aksaray Tahinlisi,Aksaray,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aksaray Köpük Helva,Aksaray,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aksaray Kabak Çekirdeği,Aksaray,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Eşmekaya Yoğurdu,Aksaray,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Gelveri Ekmeği,Aksaray,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aksaray Tulum Kebabı,Aksaray,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Unutma Beni Tatlısı,Amasya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Amasya Cevizli Ballı Baklavası,Amasya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Merzifon Keşkeği,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Çöreği,Amasya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Amasya Çiçek Bamyası,Amasya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Amasya Çatal Çorbası,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Yağlısı,Amasya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Amasya Yanuç,Amasya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Amasya Toyga Çorbası,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Etli Çiçek Bamyası Yemeği,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Patlıcan Pehli,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Misket Elması,Amasya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Amasya Baklalı Dolması,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Kirazı,Amasya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Amasya Keşkeği,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Kaypağı/Amasya Piruhisi,Amasya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Burmalı Amasya Çöreği,Amasya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Suluova Soğanı,Amasya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Amasya Ayva Gallesi,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Amasya Sıkma Tarhanası,Amasya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ankara Döneri,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kızılcahamam Bazlaması,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akyurt Fıtı Çorbası,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Şereflikoçhisar Tahinli Pidesi,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akyurt Toyga Aşı / Akyurt Toyga Çorbası,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çamlıdere Höşmerim Tatlısı,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akyurt Homaçası,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çubuk Turşusu,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çubuk Vişnesi,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akyurt Teberik Fasulyesi,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akyurt Tutmaç Aşı /Çorbası,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Akyurt Soğuk Çorbası,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Beypazarı Kurusu,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çubuk Homaçası,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Polatlı Soğanı,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akyurt Tandır Böreği,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Mamak Kutludüğün Ekşi Maya Ekmeği,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ankara Tava,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ankara Simidi,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Mamak Ravak Yoğurdu,Ankara,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Kalecik Ekmeği,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kalecik Karası Üzümü,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kalecik Çöreği,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Beypazarı Dolması / Beypazarı Yaprak Sarması,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Beypazarı Cevizli Tatlı Sucuk,Ankara,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Beypazarı Höşmerim Tatlısı,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ayaş Dutu,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Elmadağ Tandır Ekmeği,Ankara,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ayaş Domatesi,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kazan Kavunu,Ankara,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kazan Kavurması,Ankara,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ankara Erkeç Pastırması,Ankara,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Beypazarı Havuç Lokumu,Ankara,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Antalya Piyazı,Antalya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Manavgat Altın Susamı,Antalya,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Alanya Avokadosu,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Finike Portakalı,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gazipaşa Çekirdeksiz Narı,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antalya Kabak Tatlısı,Antalya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antalya Paça Çorbası,Antalya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antalya Serpme Böreği,Antalya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antalya Tavşan Yüreği Zeytini,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antalya Topak Kızartması,Antalya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Alanya Keçiboynuzu / Alanya Harnub,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Alanya Muzu,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Alanya Yenidünyası,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Korkuteli Karyağdı Armudu,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antalya Bergamot Kabuğu Reçeli,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Alanya Gülüklü (Hülüklü) Çorba,Antalya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Alanya Fıstıklı Limonata,Antalya,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Kaş Margaz Üzümü,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antalya Turunç Kabuğu Reçeli,Antalya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ardahan Çiçek Balı,Ardahan,Bal,bal,326.0,2,1.4142135623730951
+Posof Fasulyesi,Ardahan,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hanak Tel Peyniri,Ardahan,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Posof Elması / Badele Elması,Ardahan,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ardahan Kavılca Buğdayı,Ardahan,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Ardahan Kaz Eti,Ardahan,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Arhavi Termonisi,Artvin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Arhavi Kestane Balı,Artvin,Bal,bal,326.0,2,1.4142135623730951
+Şavşat Ketesi,Artvin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hopa Laz Böreği,Artvin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hopa Hamsili Ekmeği,Artvin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hatila Balı,Artvin,Bal,bal,326.0,2,1.4142135623730951
+Puçuko,Artvin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Borçka Demir Elması,Artvin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Yenipazar Pidesi,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Söke Peksimeti,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Olukbaşı Oğlak Çevirme Kebabı,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kuyucak Portakalı,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Dalama Tandırı,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Nazilli Pidesi,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Söke Tahinli Pidesi,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Nazilli Kar Helvası,Aydın,Dondurmalar ve yenilebilir buzlar,dondurmalar,145.5,2,43.1335136523794
+Sultanhisar Çileği,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Söke Pidesi,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Söke Kulak Çorbası,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Söke Tatlı Maya Ekmeği,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ortaklar Çöp Şiş,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Aydın Kabak Tatlısı,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Söke Kulak Tatlısı,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aydın Memecik Zeytini,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İncirliova Deve Sucuğu,Aydın,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Germencik Ekşili Tavuk,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bozdoğan Cevizli Sucuğu,Aydın,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Karacasu Pidesi,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çine Köftesi,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Aydın İnciri,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Aydın Yuvarlaması,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Aydın Yamalak Sarısı Zeytini,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Aydın Çam Fıstığı,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Aydın Kestanesi,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Dikmen Çiçek Balı / Dikmen Kekik Balı,Aydın,Bal,bal,326.0,2,1.4142135623730951
+Bozdoğan Pidesi,Aydın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Aydın Enginarı,Aydın,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Dedebağ Keşkeği / Karacasu Keşkeği,Aydın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ağrı Haşıl Yemeği,Ağrı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Doğubayazıt Aşure Tatlısı,Ağrı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ağrı Geven Balı,Ağrı,Bal,bal,326.0,2,1.4142135623730951
+Ağrı Yaprak Döneri,Ağrı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ağrı Tulum Peyniri,Ağrı,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Doğubayazıt Abdigör Köftesi,Ağrı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ayvalık Sakızlı Kurabiye,Balıkesir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Yağlılar Basma Helvası,Balıkesir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İvrindi Kelle Peyniri,Balıkesir,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Manyas Kazak Fasulyesi,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Manyas Kelle Peyniri,Balıkesir,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Savaştepe Sarıbeyler Seferberlik Çöreği,Balıkesir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sındırgı Kornişonu,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sındırgı Çıtır Kavun,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ayvalık Karadiken,Balıkesir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Susurluk Tostu,Balıkesir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Avşa Ada Karası Şarabı,Balıkesir,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Balıkesir Gönen Pirinci,Balıkesir,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Savaştepe Mihaliç Kelle Peyniri,Balıkesir,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Avşa Ada Karası Üzümü,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Edremit Körfezi Yeşil Çizik Zeytini,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Susurluk Ayranı,Balıkesir,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Balıkesir Kuzu Eti,Balıkesir,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Balıkesir Kaymaklısı,Balıkesir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Balıkesir Höşmerim Tatlısı,Balıkesir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Balıkesir Göbel Kuzu Kokoreci / Balıkesir Kuzu Kokoreci,Balıkesir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Balıkesir Etli Çorba,Balıkesir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Balıkesir Manda Kaymağı,Balıkesir,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Kapıdağ Mor Soğanı,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Balıkesir Tombul Bamyası,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Havran Mandalinası,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kepsut Bükdere Küflü Katık Peyniri,Balıkesir,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Balıkesir Düğün Çorbası,Balıkesir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ayvalık Kelle Peyniri/Ayvalık Sepet Peyniri,Balıkesir,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Ayvalık Lor Tatlısı,Balıkesir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Edincik Zeytini,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çakıl Kestanesi,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Havran Siyah İnciri,Balıkesir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bartın Ağda Tatlısı,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bartın Pirinçli Mantısı,Bartın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bartın Beyaz Baklavası,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bartın Kabak Burma Tatlısı / Bartın Kabak Burması,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bartın Ramazan Simidi,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bartın Gözlemesi,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bartın Şapşap Köftesi,Bartın,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Bartın Yumurtalı Isput Yemeği,Bartın,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bartın Çöven Ekmeği,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bartın İncir Dondurma Tatlısı / Bartın İncir Donduması,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bartın Tatlı Böreği,Bartın,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Batman Şam Böreği,Batman,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sason Balı,Batman,Bal,bal,326.0,2,1.4142135623730951
+Sason Çileği,Batman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gercüş Mezrune Üzümü,Batman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hasankeyf Mehina Sarımsağı,Batman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Batman Piçik Yemeği,Batman,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kozluk Domatesi,Batman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bayburt Kara Pancar Yemeği,Bayburt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bayburt Tarhunu,Bayburt,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Bayburt Kavut Çorbası,Bayburt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bayburt Ketesi,Bayburt,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bayburt Lor Dolması,Bayburt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bayburt Balı,Bayburt,Bal,bal,326.0,2,1.4142135623730951
+Aydıntepe Şeker Fasulyesi,Bayburt,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bayburt Yalancı Dolma,Bayburt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bayburt Tatlı Çorba,Bayburt,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bayburt Ekşi Lahana,Bayburt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bayburt Süt Böreği,Bayburt,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Osmaneli Ayva Lokumu,Bilecik,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Bilecik Pazaryeri Helvası,Bilecik,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Osmaneli Karpuzu,Bilecik,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bozüyük Mercimekli Mantısı,Bilecik,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bilecik Nohutlu Mantı,Bilecik,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bilecik Fırın Kebabı (Bilecik Fırın Eti),Bilecik,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bilecik Bıldırcın Kebabı,Bilecik,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çukurören Biberi,Bilecik,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bingöl Çobantaşı Kavurması,Bingöl,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bingöl Balı,Bingöl,Bal,bal,326.0,2,1.4142135623730951
+Yedisu Horoz Kuru Fasulyesi,Bingöl,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sivan Dut Pekmezi,Bingöl,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Guldar Domatesi,Bingöl,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bitlis Çorti Taplaması,Bitlis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bitlis Ciğer Taplaması,Bitlis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bitlis Avşor Çorbası,Bitlis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bitlis Balı,Bitlis,Bal,bal,326.0,2,1.4142135623730951
+Bitlis Büryan Kebabı,Bitlis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bitlis İçli Köftesi,Bitlis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bitlis Katıklı Dolma,Bitlis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mudurnu Kaşık Sapı,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Göynük Bombay Fasulye,Bolu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Göynük Dik Börek/Göynük Oklava Tatlısı,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bolu Fındık Şekeri,Bolu,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Göynük Kabaklı Yufka Tatlısı,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bolu Kıbrıscık Pirinci,Bolu,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Mengen Peyniri,Bolu,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Bolu Dağ Fındığı,Bolu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bolu Kabaklı Gözlemesi,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Mudurnu Bal Kabaklı Gözlemesi,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bolu Keşi,Bolu,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Bolu Manda Kaymağı,Bolu,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Bolu Patatesli Ekmeği,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Mengen Höşmerimi,Bolu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gerede Keşi,Bolu,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Mudurnu Basma Helva,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bolu Kızılcık Tarhanası,Bolu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bolu Sarı Patatesi,Bolu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bolu Çivril Fasulyesi,Bolu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Mengen Kaldırık Dolması,Bolu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mengen Kedibatmaz,Bolu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bolu Kanlıca Mantarı,Bolu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bolu Kara Kabağı,Bolu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bolu Göynük Uğut Tatlısı,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gerede Şakşak Helvası,Bolu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bucak Salebi,Burdur,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Gölhisar Kavurması,Burdur,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tefenni Rezenesi,Burdur,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Karamanlı Kişnişi,Burdur,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Karamanlı Cevizi,Burdur,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Burdur Şiş Köftesi,Burdur,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Burdur Kabak Helvası,Burdur,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Melli İnciri,Burdur,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Burdur Haşhaş Helvası,Burdur,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Burdur Ceviz Ezmesi,Burdur,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Karamanlı Rezenesi,Burdur,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Karacabey Soğanı,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İnegöl Köfte,Bursa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bursa Döner Kebabı,Bursa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İnegöl Büryanı / İnegöl Mişörizi,Bursa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İnegöl Piyazı,Bursa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bursa Cevizli Lokum,Bursa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bursa Kestanesi,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kemalpaşa Tatlısı / Mustafakemalpaşa Peynir Tatlısı / Mustafakemalpaşa Tatlısı,Bursa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İnegöl Cerrah Kuru Fasulyesi,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Orhangazi Gedelek Turşusu,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gemlik Zeytini,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gürsu Deveci Armudu,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bursa Süt Helvası,Bursa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bursa Tahinli Pide,Bursa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bursa Siyah İnciri / Bursa Siyahı / Siyah Bursa İnciri,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İznik Müşküle Üzümü,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bursa Şeftalisi,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İnegöl Sütlü Kadayıfı,Bursa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İnegöl Çıbrıkası,Bursa,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Hasanağa Enginarı,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Zeyniler Hınkalı,Bursa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bursa Kestane Şekeri,Bursa,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Bursa Cantık,Bursa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bursa Pideli Köfte,Bursa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bursa Üzüm Şırası,Bursa,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Keles Kirazı,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Yenişehir Biberi,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bursa Santa Maria Armudu,Bursa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Babadağ Kekik Balı,Denizli,Bal,bal,326.0,2,1.4142135623730951
+Acıpayam Kavunu,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Buldan Kestanesi,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Denizli Leblebisi,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Denizli Tandır Kebabı,Denizli,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İsabey Çekirdeksiz Üzümü,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tavas Yanık Koyun Yoğurdu,Denizli,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Çameli Fasulyesi,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kale Biberi,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tavas Baklavası,Denizli,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Honaz Kirazı,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Denizli Kekiği,Denizli,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Denizli Çalkarası Üzümü/Denizli Çalkarası,Denizli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Diyarbakır Ekşili Balık (Sumaklı Çay Balığı),Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Ayvalı Kavurma,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Ayva Dizmesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Ekşili Dolması,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Ayvalı Köfte,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Erikli Yaz Türlüsü,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Perdeli Ciğer Kebabı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Mastava Aşı Yemeği,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Meyir Çorbası,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kürt Mustafa Çorbası,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Babaganuç,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Nardan Aşı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Armut Tatlısı,Diyarbakır,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Diyarbakır Boğazkere Üzümü,Diyarbakır,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Diyarbakır Duvaklı Pilavı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Bakla Meftunesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Dalak Dolması,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Cimili Tatlısı,Diyarbakır,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Diyarbakır Burma Kadayıfı,Diyarbakır,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Diyarbakır Ciğer Kebabı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karacadağ Pirinci,Diyarbakır,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Diyarbakır İncaz Hoşafı,Diyarbakır,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Diyarbakır Badem Ezmesi / Diyarbakır Lebzüniyesi,Diyarbakır,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Diyarbakır Patlıcan Meftunesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çermik Biberi,Diyarbakır,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Diyarbakır Paşa Lavaşı,Diyarbakır,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Diyarbakır Kulak Çorbası,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kibe Mumbar,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kengerli Bulgur Pilavı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kenger Meftunesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kenger Boranisi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kemikli Kebabı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kağırdaklı Ekmek / Diyarbakır Kizirikli Ekmek,Diyarbakır,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Diyarbakır Karpuzu,Diyarbakır,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Diyarbakır Patlıcanlı Kazan Kebabı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kaburga Dolması,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kabak Meftunesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Hırçikli Meftunesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Hıllorik Aşı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Hedik Yemeği,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Habenisk Çorbası,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Tirit Yemeği,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Gebol Yemeği,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Gendüme Aşı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır İçli Köftesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Üsküre Kebabı / Diyarbakır Tas Kebabı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Örgü Peyniri,Diyarbakır,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Diyarbakır Çakıl Ekmeği,Diyarbakır,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Diyarbakır Et Eşkenesi Yemeği,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Simindirik Çorbası,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Pencegoşt Pilavı,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Şehriyesi,Diyarbakır,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Diyarbakır Lebenisi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Kuru Dolması,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Lepik Köftesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Diyarbakır Şırdanlı Bastırma,Diyarbakır,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Diyarbakır Tavuk Eşkenesi,Diyarbakır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Düzce Kestane Kabağı,Düzce,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akçakoca Melengücceği Tatlısı,Düzce,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Düzce Şırası,Düzce,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Düzce Şeker Kamışı Pekmezi,Düzce,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Düzce Köftesi,Düzce,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konuralp Pirinci,Düzce,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Akçakoca Ekşilisi,Düzce,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Akçakoca Kaplandede Kestanesi,Düzce,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akçakoca Sarı Fındığı,Düzce,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Yufkalı Konuralp Pilavı,Düzce,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Düzce Acıkası,Düzce,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Düzce Fındıklı Tahin Helvası,Düzce,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Düzce Kestane Balı,Düzce,Bal,bal,326.0,2,1.4142135623730951
+Akçakoca Mancarlı Pidesi,Düzce,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Düzce Kestanesi,Düzce,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Deva-i Misk Helvası,Edirne,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Edirne Tava Ciğeri,Edirne,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Keşan Siğilli Bamyası,Edirne,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Edirne Badem Ezmesi,Edirne,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Keşan Satır Et,Edirne,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Edirne Ciğer Sarma,Edirne,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İpsala Pirinci,Edirne,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Keşan Mahmutköy Kuru Fasulyesi,Edirne,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Edirne Beyaz Peyniri,Edirne,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Meriç Yer Fıstığı,Edirne,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Keşan Korudağ Çiçek Balı,Edirne,Bal,bal,326.0,2,1.4142135623730951
+Uzunköprü Köftesi,Edirne,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Meriç Kara Kavunu,Edirne,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Elazığ Çedene Kahvesi,Elazığ,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Elazığ Menceki Buğdayı,Elazığ,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Elazığ Vişnesi,Elazığ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Elazığ Orciği,Elazığ,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Ağın Leblebisi,Elazığ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Elazığ Öküzgözü Üzümü,Elazığ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Elazığ Taş Ekmeği Tatlısı,Elazığ,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Elazığ Tahannebi Üzümü,Elazığ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Elazığ Geven Balı,Elazığ,Bal,bal,326.0,2,1.4142135623730951
+Elazığ Boğazkere Üzümü,Elazığ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Elazığ Sırın Yemeği,Elazığ,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Keban Biberi,Elazığ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erzincan Tulum Peyniri,Erzincan,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Refahiye Balı,Erzincan,Bal,bal,326.0,2,1.4142135623730951
+Kemaliye Dutu / Eğin Dutu,Erzincan,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kemah Doğal Kaynak Tuzu,Erzincan,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Kemaliye Lök Tatlısı / Eğin Lök Tatlısı,Erzincan,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzincan Üzümlü Sarucu,Erzincan,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Cimin Üzümü,Erzincan,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erzincan Kesme Kadayıfı,Erzincan,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kemaliye Kuru Kaymağı/Eğin Kuru Kaymağı,Erzincan,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Erzurum Su Böreği,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Peynir Helvası,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Pastırması,Erzurum,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Erzurum Demir Tatlısı,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Mantısı /Erzurum Hıngeli,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Civil Peyniri,Erzurum,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Erzurum Cılbıra / Erzurum Çılbır,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İspir Kaymağı,Erzurum,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Narman Şeker Fasulyesi,Erzurum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Pasinler Yaprak Döner,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Pekmezli Baklavası,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Ayva Yahnisi / Erzurum Ayva Kalyesi,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Babaanne Pastası / Erzurum Pastası,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Aşotu,Erzurum,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Erzurum Aşmalı Yahni,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Ayran Aşı Çorbası,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Sucuğu,Erzurum,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Erzurum Kıtlama Şekeri,Erzurum,Diğer ürünler,diğer,356.8,15,145.07791010350266
+İspir Kuru Fasulyesi,Erzurum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erzurum Tatar Böreği,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Pekmezli Kadayıfı,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Tel Helvası,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Ekşili Dolma,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Eriştesi,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Kuru Kayısı Kaysefesi,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Ketesi,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Kesme Aşı Çorbası,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Kaz Lokması,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Kadayıf Dolması,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Kavut Haşılı,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Kara Fatma Çorbası,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Küflü Civil Peyniri (Göğermiş Peynir),Erzurum,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Erzurum Hasıta / Erzurum Hasuta,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Gliko,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Et Kavurması,Erzurum,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Erzurum Hurma Tatlısı,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Tuzlu Lokumu,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Herle Aşı Çorbası,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Lavaş Ekmeği / Erzurum Ecem Ekmeği / Erzurum Acem Ekmeği,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Patates Boranisi,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Un Helvası,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Yumurta Pilavı,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Çaşır Kavurması,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Çaşır Salamurası,Erzurum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erzurum Çeç Pancarı,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Çiriş Yemeği,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Oltu Cağ Kebabı,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Çortutu Pancarı,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erzurum Şalgam Dolması,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karnavas Dut Pekmezi,Erzurum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hınıs Köftesi,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hınıs Fasulyesi,Erzurum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tortum Ekşi Pestili,Erzurum,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Hasankale Lavaşı,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Dut Çullaması,Erzurum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Erzurum Hink Yemeği,Erzurum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sivrihisar Höşmerim Tatlısı,Eskişehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sivrihisar Kelem Dolması,Eskişehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kızılinler Bal Kabağı,Eskişehir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sivrihisar Muska Baklavası,Eskişehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sivrihisar Dövme Sucuğu,Eskişehir,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Sivrihisar Arabaşı,Eskişehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Eskişehir Met Helvası,Eskişehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Eskişehir Simidi,Eskişehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Eskişehir Çiğböreği (Çibörek),Eskişehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Baklavası,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Kuymağı/Antep Kuymağı,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Kabaklama/Antep Kabaklama,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Araban Sarımsağı,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+"Gaziantep / Antep Altı Ezmeli Kebap, Gaziantep / Antep Altı Ezmeli Kuşbaşı Kebabı, Gaziantep / Antep Altı Ezmeli Kıyma Kebabı",Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Beyranı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Haveydi Köfte / Antep Haveydi Köfte,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Malhıtalı Köftesi/Gaziantep Mercimekli Köftesi,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Muskası (Gaziantep Muskası),Gaziantep,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Antep Zahter Balı / Gaziantep Zahter Balı,Gaziantep,Bal,bal,326.0,2,1.4142135623730951
+Antep Yuvarlaması / Antep Yuvalaması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Tırnaklı Pidesi / Gaziantep Tırnaklı Pidesi / Antep Pidesi,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antep Sumağı,Gaziantep,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Antep Allı Yeşilli Dolma /Antep Nakışlı Dolma /Antep Yaz Dolması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Biber Salçası / Gaziantep Biber Salçası,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gaziantep Haylan Kabağı Reçeli,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antep Peynirli İrmik Helvası / Gaziantep Peynirli İrmik Helvası,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antep Şiveydizi,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Haylan Kabağı Dolması / Antep Haylan Kabağı Dolması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Peyniri / Gaziantep Peyniri / Antep Sıkma Peyniri,Gaziantep,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Gaziantep Lebeniye Çorbası/Antep Lebeniye Çorbası,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Firiği,Gaziantep,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Antep Menengiç Kahvesi / Gaziantep Menengiç Kahvesi / Antep Melengiç Kahvesi / Gaziantep Melengiç Kahvesi,Gaziantep,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Antep Zahter Çayı / Gaziantep Zahter Çayı,Gaziantep,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Antep Bulguru / Gaziantep Bulguru,Gaziantep,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Gaziantep / Antep Ekşili / Akıtmalı Ufak Köfte,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Damat Dolması / Gaziantep Kuzu İçli Kabak Dolma,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep / Antep Yarım Tava,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Acur-Biber Turşusu,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gaziantep Alenaziği /Antep Alenaziği,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Arap Köftesi / Antep Arap Köftesi,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Buhara Pilavı / Antep Buhara Pilavı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Börek Çorbası / Antep Börek Çorbası,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Börk Aşı / Gaziantep Mıcırık Aşı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Bülbül Yuvası,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Cağırtlak Kebabı/ Antep Cağırtlak Kebabı / Gaziantep Cartlak Kebabı / Antep Cartlak Kebabı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Doğrama/Antep Doğrama,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Dolangel Tatlısı,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Koruk Ekşisi,Gaziantep,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Gaziantep Fasulyeli Kabak Dolması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Küşleme Kebabı/Antep Küşleme Kebabı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Susamlı Kıtır Helva,Gaziantep,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Antep Urmu Dut Şurubu / Gaziantep Urmu Dut Şurubu,Gaziantep,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Antep Fıstık Ezmesi (Antepfıstığı Ezmesi / Gaziantep Fıstık Ezmesi),Gaziantep,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Gaziantep/Antep Ayvalı Ekşili Taraklık,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep/Antep Firikli Acur Dolması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Nohut Dürümü/Antep Nohut Dürümü,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Tene Katması / Antep Tene Katması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Simit Aşı/Antep Simit Aşı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Simit Kebabı/Antep Simit Kebabı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Şöbiyeti / Antep Şöbiyeti,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Sini Köftesi,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Dolmalık Biber Kurusu / Gaziantep Dolmalık Biber Kurusu,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gaziantep Sebzeli Peynirli Böreği /Antep Sebzeli Peynirli Böreği,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Sütlü Zerdesi/Gaziantep Astarlı Sütlacı,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Sarımsak Kebabı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Lahmacunu / Gaziantep Lahmacunu,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Süzek Yapması / Antep Süzek Yapması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Pirpirim Aşı/Antep Pirpirim Aşı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Yağlı Köfte / Antep Yağlı Köfte,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Yenidünya Kebabı/Antep Yenidünya Kebabı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Yeşil Zeytin Böreği,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Yoğurtlu Patates/Antep Yoğurtlu Patates,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Yoğurtlu Taze Fasulye/Antep Yoğurtlu Taze Fasulye,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep İçli Köftesi / Antep İçli Köftesi,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Pirinçli Böreği,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Oğuzeli Narı /Antep Oğuzeli Narı,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gaziantep Omacı/Antep Omacı/Pisik Köftesi,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Şekerli Peynirli Böreği/ Antep Şekerli Peynirli Böreği,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Şirin Tarhanası,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep Sarımsak Aşı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Kübban Ekmeği,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antep Pekmezi / Gaziantep Pekmezi,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antep Kuruluk Patlıcanı (Gaziantep Kuru Patlıcanı),Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+"Antep Meyan Şerbeti (Gaziantep Meyan Şerbeti, Antep Meyankökü Şerbeti)",Gaziantep,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Gaziantep/Antep Çağla Aşı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep/Antep Sebzeli Kebap,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep/Antep Maş Çorbası,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep/Antep Maş Piyazı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep/Antep Keme Kebabı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Mumbar Dolması/ Antep Mumbar Dolması,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Köy Kahkesi (Gaziantep Köy Kahkesi),Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep/Antep Firik Pilavı,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Haylan Kabağı Kurusu / Gaziantep Haylan Kabağı Kurusu,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İslahiye Biberi,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antep Karası Kuru Üzümü,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gaziantep Malhıtalı Aşı/Lapası,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Öz Çorba/Antep Öz Çorba,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep Muhammarası,Gaziantep,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Oğuzeli Nar Ekşisi,Gaziantep,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Antep Fıstığı,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gaziantep/Antep Bakla Tavası,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gaziantep/Antep Erik Tavası,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antep Kurabiyesi,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Nizip Patlıcanı,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sof Domatesi,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Nizip Nanesi,Gaziantep,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Nizip Mızar Havucu,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antep Katmeri,Gaziantep,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gaziantep/Antep Alaca Çorba,Gaziantep,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Oğuzeli Kurutmalığı,Gaziantep,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çamoluk Şeker Kuru Fasulyesi,Giresun,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Giresun Kalınkara Fındığı /Giresun Karası,Giresun,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Giresun Isırganı,Giresun,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Giresun Fındık Ezmesi,Giresun,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Giresun Fındık Ezmeli Kadayıf Tatlısı,Giresun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şebinkarahisar Karadutu,Giresun,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Giresun Tombul Fındığı,Giresun,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çavuşlu Ekmeği,Giresun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Giresun Sivri Fındığı,Giresun,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Piraziz Elması,Giresun,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Görele Dondurması,Giresun,Dondurmalar ve yenilebilir buzlar,dondurmalar,145.5,2,43.1335136523794
+Alucra Oğlak Kebabı,Giresun,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gümüşhane Dut Pestili,Gümüşhane,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Kelkit Şeker Fasulyesi,Gümüşhane,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kelkit Ketesi,Gümüşhane,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gümüşhane Deleme Peyniri,Gümüşhane,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Şiran Kök Pekmezi,Gümüşhane,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gümüşhane Ekmeği,Gümüşhane,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gümüşhane Kömesi,Gümüşhane,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Kürtün Araköy Ekmeği,Gümüşhane,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gümüşhane Şeker Fasulyesi,Gümüşhane,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gümüşhane Sironu,Gümüşhane,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gümüşhane Kuşburnu Nektarı,Gümüşhane,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Çukurca Tahini,Hakkari,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Hakkari Girara Huluga,Hakkari,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Yüksekova Çirek Peyniri,Hakkari,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Hakkari Gulol,Hakkari,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gayle Zengil,Hakkari,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hakkari Kepaye,Hakkari,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hakkari Lalaped Tatlısı,Hakkari,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hakkari Kadesi,Hakkari,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hakkâri Kıris,Hakkari,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hakkâri Doleme,Hakkari,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hakkâri Doğaba,Hakkari,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Humusu,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Ali Nazik,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Aşur Yemeği,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Bahtenis Dolması,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Barburi Üzümü,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hatay Bakla Ezmesi,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Biber Salçası,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hatay Cevizli Biber / Hatay Muhammarası,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Halhalı Zeytini,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hatay Ekşi Aşı,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Fellah Köftesi,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Halavet Kebabı,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Beyaz Balkabağı,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hatay Ceviz Reçeli,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Belen Tava,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Dörtyol Mandarini,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kırıkhan Siyah Havucu,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hatay Şiş Börek Çorbası,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Şeyh Mualla Yemeği,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Tandır Kahkesi,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hatay Kaytaz Böreği,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hatay Kömbesi,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hatay Nar Ekşisi,Hatay,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Hatay Oruğu,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Peynirli İrmik Helvası,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hatay Pirzolalı Yaprak Sarması,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Taş Kadayıfı,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hatay Zeytin Salatası,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hatay Tel Kadayıfı,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hatay Tepsi Oruğu,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Tuzlu Yoğurt Çorbası,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Yaprak Sarması,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hatay Zahter Salatası / Hatay Kekik Salatası,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antakya Künefesi,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Samandağ Biberi,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hatay Ispanaklı Börek,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kırıkhan Kavunu,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antakya Sürkü (Antakya Çökeleği),Hatay,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Antakya Tuzlu Yoğurdu,Hatay,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Hatay Kabak Tatlısı,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antakya Zılk Sarması,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antakya Künefelik Peyniri,Hatay,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Antakya Küflü Sürkü (Çökeleği),Hatay,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Belen Kömürçukuru Pekmezi,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antakya Simidi,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kırıkhan Havucu,Hatay,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Antakya Ekmek Oruğu / Antakya Fış Oruk,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antakya Sakal Kaldıran Tatlısı,Hatay,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Antakya Carra Peyniri,Hatay,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Antakya Kağıt Kebabı,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Antakya Külçesi,Hatay,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sütçüler Kekiği,Isparta,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Isparta Kabune Pilavı,Isparta,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gelendost Çaltı Sarımsağı,Isparta,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Senirkent Banağı,Isparta,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Senirkent Üzüm Pekmezi,Isparta,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Senirkent Dimrit Üzümü,Isparta,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Isparta Elması,Isparta,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Uluborlu Kuyruğu Sulu Böreği,Isparta,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Yalvaç Hamursuzu,Isparta,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Uluborlu Banağı,Isparta,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Senirkent Samsa Tatlısı,Isparta,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sütçüler Kekik Yağı,Isparta,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Uluborlu Kirazı,Isparta,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Iğdır Patlıcan Reçeli,Iğdır,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Iğdır Beyaz Üzümü /Miskalı,Iğdır,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Iğdır Bozbaş Yemeği,Iğdır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Iğdır Kayısısı,Iğdır,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Iğdır Omaç Aşı Çorbası,Iğdır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Iğdır Taş Köfte Yemeği,Iğdır,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Maraş Çöreği,Kahramanmaraş,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çağlayancerit Cevizi,Kahramanmaraş,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Maraş Tarhanası,Kahramanmaraş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Maraş Ravanda Şerbeti,Kahramanmaraş,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Maraş Samsası,Kahramanmaraş,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Afşin Koçovası Sarımsağı,Kahramanmaraş,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Andırın Andız Pekmezi,Kahramanmaraş,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Afşin Tava,Kahramanmaraş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Maraş Sumak Ekşi Külü,Kahramanmaraş,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Kahramanmaraş Bertiz Kabarcık Üzümü / Maraş Bertiz Kabarcık Üzümü,Kahramanmaraş,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Andırın Tirşiği,Kahramanmaraş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Maraş Parmak /Sıkma Peyniri,Kahramanmaraş,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Maraş Biberi,Kahramanmaraş,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kahramanmaraş Çiriş Böreği,Kahramanmaraş,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Maraş Ekşili Çorba,Kahramanmaraş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Maraş Sumak Ekşisi Akıtı,Kahramanmaraş,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Maraş Eli Böğründe / Maraş Yanyana,Kahramanmaraş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Maraş Fıstık Ezmesi,Kahramanmaraş,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Elbistan Kelle Peyniri,Kahramanmaraş,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Maraş Kelle Paçası,Kahramanmaraş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Maraş Dondurması,Kahramanmaraş,Dondurmalar ve yenilebilir buzlar,dondurmalar,145.5,2,43.1335136523794
+Yenice Ihlamur Balı,Karabük,Bal,bal,326.0,2,1.4142135623730951
+Eflani Hindi Bandırması,Karabük,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Safranbolu Kıtırı,Karabük,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Safranbolu Maniye Domatesi,Karabük,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Safranbolu Safranı,Karabük,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Safranbolu Çavuş Üzümü,Karabük,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Safranbolu Lokumu,Karabük,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Karaman İlisıra Dolması,Karaman,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kazımkarabekir Kabak Çekirdeği,Karaman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Karaman Guymak Tatlısı,Karaman,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Karaman Ekşikara Üzümü,Karaman,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Karaman Divle Obruğu Tulum Peyniri,Karaman,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Karaman Şebit Pilavı,Karaman,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ermenek Helvası,Karaman,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Karaman Tahinli Pide,Karaman,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Karaman Mayalısı,Karaman,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Başyayla Karın Kaymağı,Karaman,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Ermenek Batırması,Karaman,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karaman Kırma Böreği,Karaman,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kars Balı,Kars,Bal,bal,326.0,2,1.4142135623730951
+Kars Kaşarı,Kars,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Kars Ketesi,Kars,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kağızman Uzun Elması,Kars,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kars Gravyer Peyniri,Kars,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Kars Kaz Eti,Kars,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Devrekani Hindi Banduması,Kastamonu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tosya Pirinci,Kastamonu,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Taşköprü Sarımsağı,Kastamonu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kastamonu Siyez Buğdayı,Kastamonu,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Kastamonu Siyez Bulguru,Kastamonu,Diğer ürünler,diğer,356.8,15,145.07791010350266
+İhsangazi Ekşili Pilavı,Kastamonu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kastamonu Siyez Unu,Kastamonu,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Daday Etli Ekmeği,Kastamonu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Taşköprü Kuyu Kebabı,Kastamonu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Cide Tarhanası,Kastamonu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çatalzeytin Fındık Şekeri,Kastamonu,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+İnebolu Kuzu Kestane,Kastamonu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Cide Ceviz Helvası,Kastamonu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Devrekani Cırık Tatlısı,Kastamonu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kastamonu Kestane Balı,Kastamonu,Bal,bal,326.0,2,1.4142135623730951
+Kastamonu Eğşisi,Kastamonu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kastamonu Pastırması,Kastamonu,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Kastamonu Kuzu Kestanesi,Kastamonu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kastamonu Tiridi / Kastamonu Simit Tiridi,Kastamonu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kastamonu Çekme Helvası,Kastamonu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kastamonu Üryani Eriği,Kastamonu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Araç Kül Çöreği,Kastamonu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Araç Akdene Göce Çorbası,Kastamonu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Pınarbaşı Kara Çorba,Kastamonu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kastamonu Simidi,Kastamonu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Tomarza Kabak Çekirdeği,Kayseri,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erkilet Kedi Bacağı,Kayseri,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Özvatan Çiçek Balı,Kayseri,Bal,bal,326.0,2,1.4142135623730951
+Kayseri Yağ Mantısı,Kayseri,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İncesu Karaevrek Üzümü,Kayseri,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kayseri Çemeni,Kayseri,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Akkışla Gilaburusu,Kayseri,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bünyan Gilaburusu,Kayseri,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kayseri Yağlaması,Kayseri,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Yamula Patlıcanı,Kayseri,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kayseri Mantısı,Kayseri,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kayseri Kavurması,Kayseri,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Kayseri Katmeri,Kayseri,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kayseri Gül Baklavası,Kayseri,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kayseri Sucuk İçi,Kayseri,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Kayseri Cırgalan Biberi,Kayseri,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Kayseri Börek Aşı/ Kayseri Böre Aşı Çorbası,Kayseri,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kayseri Nevzinesi,Kayseri,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kayseri Fırın Ağzı Kebabı,Kayseri,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Pınarbaşı Uzunyayla Çerkes Peyniri,Kayseri,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Talas Zincidere Kuru Kaymağı,Kayseri,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Kayseri Tepsi Mantısı,Kayseri,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kayseri Pastırması,Kayseri,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Develi Cıvıklısı,Kayseri,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kayseri Sucuğu,Kayseri,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Kayseri Tandır Böreği,Kayseri,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Talas Çörekotlu Çömlek Peyniri,Kayseri,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Kayseri Kurşun Aşı Çorbası,Kayseri,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kilis Tava,Kilis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kilis Şıhılmahşe,Kilis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kilis Kırk Semseği,Kilis,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kübbülmişviyye,Kilis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kilis Kahvaltılık Toz Zahter,Kilis,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Kilis Horoz Karası Üzümü,Kilis,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kilis Ekşili Kebabı,Kilis,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Cennet Çamuru / Kilis Kaymaklı Kırma Künefe,Kilis,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kilis Katmeri,Kilis,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Karamürsel Simit Dolması,Kocaeli,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İzmit Simidi,Kocaeli,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İzmit Pişmaniyesi,Kocaeli,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Gebze Bayram Çöreği,Kocaeli,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Karamürsel Samanlı Zeytini,Kocaeli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Değirmendere Fındığı,Kocaeli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kandıra Manda Yoğurdu,Kocaeli,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Kandıra Karpuzu,Kocaeli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kandıra Dartısı,Kocaeli,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Konya Kömbesi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Kikirdekli Kesme Çorbası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Kuru Kabak Sarması,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Köftü,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Kifayesi,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Konya Kıtırlı Mantı,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Kayısı Hoşafı / Konya Zerdali Hoşafı,Konya,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Konya Ekşili Kabak,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Bütümet / Konya Orta,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Atlantı Dededağ Tulum Peyniri,Konya,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Konya Kenevir Helvası,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akşehir Tandır Kebabı,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Etli Yaprak Sarması,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Kaygana,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Güneyik Salatası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Kara Erik Kavurması,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Kakırdaklı Börek,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Ildız Kökü Yemeği,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Höşmerimi,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Hassaten Lokma,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Haside Tatlısı / Konya Kara Helvası,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Badem Helvası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Fırın Kebabı / Konya Fürun Kebabı,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Etliekmek,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Etli Düğün Pilavı,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karapınar Koyun Yoğurdu,Konya,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Bozkır Tahini,Konya,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Konya Karışık Börek,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akşehir Kirazı,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Konya Ekmek Salması,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sirkencübin / Sirkengebin,Konya,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Konya Tutmaç Çorbası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Topalağı,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Tiridi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Akşehir Hersesi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Tarhun Çorbası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Tandırda Çebiç,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Patlıcan Bayıldan,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Patlıcan Tiridi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Tandır Ekmeği,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Tandır Böreği,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Paça Yahnisi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Vişne Tiridi,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Peynir Şekeri,Konya,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Konya Reyhan Şerbeti,Konya,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Konya Tandır Çorbası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Zerdesi,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ereğli Siyah Havucu,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Konya Çirli,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Paluzesi / Konya Palize,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ereğli Kuru Kayısı Yahnisi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ereğli Koyun Yoğurdu,Konya,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Ereğli Beyaz Kirazı,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çumra Kavunu,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ahırlı Köpük Helvası,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Yağ Somunu,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Cihanbeyli Gömeç Ekmeği,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akçabelen (Çetmi) Şeker Fasulyesi,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Seydişehir Leblebisi,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Konya Şalgam Gallesi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Çullama,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Seydişehir Karpuzu,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Derbent Fasulyesi,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ereğli Uzun Kabağı,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Konya Zülbiyesi / Konya Sülbiyesi,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Ovmaç Çorbası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Sac Arası,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Menekşeli Pilav,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Domalan Yemeği,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Cimcik,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Mıkla,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hüyük Çileği,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Konya Calla Yemeği,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Bıçakarası,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Derebucak Gembos Şeker Fasulyesi,Konya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ilgın Haşhaşlı Kömbe,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kadınhanı Kömbesi,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Sütlü Selemen,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akşehir Peynir Baklavası,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kadınhanı Tahinli Pidesi,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Bamya Çorbası,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya Balık Çokratması,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Konya İrmik Helvası,Konya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Konya Çöpleme,Konya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gediz Höşmerimi,Kütahya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kütahya Bitli Helva,Kütahya,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Gediz Güveci,Kütahya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tavşanlı Güveci / Tavşanlı Göveci,Kütahya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Emet Kebabı,Kütahya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Emet Ekmeği,Kütahya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Paşa Helvası,Kütahya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Tavşanlı Leblebisi,Kütahya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Şaphane Vişnesi,Kütahya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gediz Tarhanası,Kütahya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Simav Kestanesi,Kütahya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Simav Eynal Domatesi,Kütahya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kütahya Tosunumu,Kütahya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kütahya Pazarlar Kirazı,Kütahya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kütahya Kızılcık Tarhanası,Kütahya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kütahya Köpük Helvası,Kütahya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kütahya Dolamber Böreği,Kütahya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kütahya Cimcik Aşı/Kütahya Cimcik,Kütahya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kütahya Kaz Tiridi,Kütahya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Emet Pidesi,Kütahya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Babaeski Sarımsağı,Kırklareli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kırklareli Kıvırcık Kuzu Eti,Kırklareli,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Kırklareli Meşe Balı,Kırklareli,Bal,bal,326.0,2,1.4142135623730951
+Brakana Tatlısı,Kırklareli,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kırklareli Beyaz Peyniri,Kırklareli,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Kırklareli Eski Kaşar Peyniri,Kırklareli,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Kırklareli Hardaliyesi,Kırklareli,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Delice Doğal Kaynak Tuzu,Kırıkkale,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Karaahmetli Tokmak Köfte,Kırıkkale,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kırıkkale Kılıçlar Soğanı,Kırıkkale,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kırıkkale Keskin Tava,Kırıkkale,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Cemele Biberi,Kırşehir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kaman Cevizi,Kırşehir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kırşehir Süla Kabağı Yemeği,Kırşehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kırşehir Çullaması,Kırşehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kırşehir Ayva Boranısı,Kırşehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kırşehir Ahi Helvası,Kırşehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kaman Besmeç,Kırşehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kırşehir Höşmerim Tatlısı,Kırşehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kırşehir Çirleme Yemeği,Kırşehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Tandır Ekmeği,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Yağlı Ekmeği,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Ekşili Ekmek,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akçadağ Pilavı,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Yassı Kadayıfı,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Kayısı Çekirdeği,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Malatya Kurabiyesi,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Yufka Ekmeği,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Tevek Yaprağı Sarması,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya İçli Köftesi,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Banazı Karası Üzümü,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Malatya Ispanaklı Ekşili Köftesi,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Simit Pilavı,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Pöçüklü Lahana Sarması / Malatya Nahna Küftesi,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Dalbastı Kirazı,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Malatya Analı Kızlı Köfte / Malatya Tiritli Köfte,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Arapgir Deli Kız Baklavası,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Arapgir Peynirli Ekmek,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Köpük Pestili,Malatya,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Malatya Erik Ekşisi,Malatya,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Arapgir Balıklı Pilav,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Battalgazi Haşhaşlı Dut Pestili,Malatya,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Yeşilyurt Kiraz Yaprağı Sarma Köftesi / Yeşilyurt Kiraz Yaprağı Sarması,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Hırçikli Köfte,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Polat İçli Köftesi / Polat Köftesi,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Pütürge Dutu,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Arapgir Kakuk,Malatya,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Arapgir Dolaması,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Arapgir Akıtma Bıciği,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Akçadağ Armudu,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Arapgir Köhnü Üzümü,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hekimhan Cevizi,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Arapgir Mor Reyhanı,Malatya,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Arapgir Pohmutu /Pohmut,Malatya,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Arapgir Tandır Kebabı,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Arapgir Kızartması,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Pütürge Dermanı,Malatya,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Akçadağ Kömbesi,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Polat Kınalı Ekmek,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Arapgir Pestil Kavurması / Arapgir Bastık Kavurması,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Kayısısı,Malatya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Malatya Ayranlı Soğuk Çorba,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Peyniri,Malatya,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Malatya Pidesi/ Malatya Açık Ekmeği,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Pirpirimli Acılı Ayran / Malatya Semizotlu Acılı Ayran,Malatya,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Malatya Kağıt Kebabı,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Malatya Bilik Ekmeği,Malatya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malatya Tarhanası,Malatya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kırkağaç Pideli Paça / Kırkağaç Çakal Pideli Paça,Manisa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Alaşehir Tahinli Pidesi,Manisa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Demirci Figani Efendi Eriği,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Köprübaşı Çileği,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Alaşehir Ekmeği,Manisa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Alaşehir Asma Yaprağı,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Emcelli Biberi,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Salihli Kirazı,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Salihli Odun Köfte,Manisa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Manisa Asma Yaprağı,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Soma Helvası,Manisa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Saruhanlı Çekirdeksiz Beyaz Üzümü,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kırkağaç Kavunu,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akhisar Köfte,Manisa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Akhisar Domat Zeytini,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kula Leblebisi,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Alaşehir Kapaması / Alaşehir Kapatması,Manisa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Demirci Kirazı,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Demirci Hünnabı,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kırkağaç Topalak Yemeği,Manisa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Manisa Taban Simidi,Manisa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Manisa Sultani Çekirdeksiz Üzümü,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Manisa Mesir Macunu,Manisa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Büyükbelen Tekir Zeytini,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akhisar Uslu Zeytini,Manisa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Mardin İncasiyye,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mardin Sembusek,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Midyat Zeynebi Üzümü,Mardin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Midyat Acuru,Mardin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Midyat Tandır Ekmeği,Mardin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Midyat Turşusu / Midyat Acur Turşusu,Mardin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Mardin Kiliçesi / Mardin Kiliçe Çöreği,Mardin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Mardin Kebabı,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mardin Kaburga Dolması,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mardin Irok,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mardin Alluciye,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mardin Firkiye,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mardin Kibe,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mardin İmlebbes,Mardin,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Ömerli Karfoki Üzümü,Mardin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Midyat İnciri,Mardin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Midyat Kavunu,Mardin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kızıltepe Kırmızı Mercimeği,Mardin,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Mardin Bulguru,Mardin,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Mardin Harire,Mardin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Mardin İkbebet,Mardin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Silifke Çileği,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tarsus Kebabı,Mersin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gezende Eriği,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tarsus Yayla Bandırması,Mersin,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Anamur Batırığı,Mersin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tarsus Şalgamı,Mersin,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Silifke Yoğurdu,Mersin,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Gülnar Kuş Üzümü,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tarsus Sarıulak Zeytini,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tarsus Beyazı Üzüm (Topacık),Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Mut Kayısısı (Yaş Sofralık),Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tarsus Humusu,Mersin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tarsus Biberiyesi,Mersin,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Erdemli Muzu,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erdemli Lamas Limonu,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Anamur Muzu,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Mersin Tantunisi,Mersin,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mersin Kerebici,Mersin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Mersin Kan Portakalı,Mersin,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Mersin Cezeryesi,Mersin,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Bozyazı Kavutu,Mersin,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Tarsus Fındık Lahmacunu,Mersin,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Fethiye Tahini,Muğla,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Bodrum Çökertme Kebabı,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Fethiye Kaya İnciri,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Muğla Göce Tarhanası,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bodrum Mandarini,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kavaklıdere Cevizi,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Datça Domatesi,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Köyceğiz Portakalı,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Milas Ciğer Kavurması,Muğla,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Marmaris Yer Fıstığı,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Milas Yağlı Zeytini,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Muğla Saraylısı,Muğla,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Muğla Simidi,Muğla,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Milas Çıntar Kavurması,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Muğla Sulu Kebabı,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Muğla Çam Balı,Muğla,Bal,bal,326.0,2,1.4142135623730951
+Milas Çaykaması,Muğla,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Milas Vekilharcı,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Milas Tepsi Böreği,Muğla,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Milas Köftesi,Muğla,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Milas Kanlı Kavurması,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Milas Ekşili Zeytini,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Milas Ekşili Köfte,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Muğla Köftesi,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Fethiye Tarhanası,Muğla,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Marmaris Çam Balı,Muğla,Bal,bal,326.0,2,1.4142135623730951
+Datça Nurlu Bademi,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ula Sarımsağı,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Milas Çekişke Zeytini,Muğla,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Muş Köftesi,Muş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Muş Eski Kaşarı,Muş,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Muş Çorti Aşı (Yemeği),Muş,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Muş Çorti Turşusu,Muş,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Nevşehir Kabak Çekirdeği,Nevşehir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kaymaklı Çöreği,Nevşehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kaymaklı Kuru Kaymağı,Nevşehir,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Nevşehir Testi Kebabı,Nevşehir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Nevşehir Tahinli Simidi,Nevşehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Derinkuyu Kuru Fasulyesi,Nevşehir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Nevşehir Simidi,Nevşehir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Nevşehir Parmak Üzümü,Nevşehir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Niğde Tahinlisi,Niğde,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Niğde Tavası,Niğde,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Darboğaz Kirazı,Niğde,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Niğde Sarım Burma Tatlısı,Niğde,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Niğde Kelle Söğüş,Niğde,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bor Söğürmesi,Niğde,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ordu Sakarca Mıhlaması,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Mesudiye Kuru Ekmeği / Mesudiye Goliti,Ordu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gürgentepe Çakıldak Fındığı,Ordu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gürgentepe Çoban Fasulyesi,Ordu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kabataş Helvası,Ordu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ordu Taflan Turşusu,Ordu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ordu Zeytinyağlı Karalahana Sarması / Ordu Zeytinyağlı Pancar Sarması,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ordu Melocan Kavurması,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ordu Yayla Pancarı Turşusu / Ordu Dürme Turşusu,Ordu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ordu Fındıklı Burma Tatlısı,Ordu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ordu Pancar Çorbası / Ordu Karalahana Çorbası,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ordu Fırın Fasulyesi Kavurması,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ordu Galdirik Kavurması,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ünye İzabella Üzüm Suyu,Ordu,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Ordu Perşembe Ceviz Helvası,Ordu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ordu Kivisi,Ordu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ordu İçli Tava,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ordu Fındık Tirmidi Kavurması,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Yalıköy Köftesi,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Akkuş Şeker Fasulyesi,Ordu,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ordu Pidesi / Ordu Yağlısı,Ordu,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ordu Tostu,Ordu,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Osmaniye Yoğurtlu Kömbesi,Osmaniye,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kadirli Turpu,Osmaniye,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Osmaniye Zorkun Tava,Osmaniye,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Osmaniye Bayram Kömbesi,Osmaniye,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Osmaniye Yer Fıstığı,Osmaniye,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Rize Çayı,Rize,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Çayeli Koloti Peyniri,Rize,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Anzer Balı,Rize,Bal,bal,326.0,2,1.4142135623730951
+Rize Simidi,Rize,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ayder Balı,Rize,Bal,bal,326.0,2,1.4142135623730951
+Derepazarı Pidesi,Rize,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Rize Baston Ekmek,Rize,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çayeli Kuru Fasulye Yemeği,Rize,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Rize Enişte Lokumu,Rize,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Rize Muhlaması,Rize,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Rize Kokulu Üzümü,Rize,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Rize Kavurması,Rize,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Rize Pepeçurası,Rize,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Rize Etli Kara Lahana Sarması,Rize,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karapürçek Cennet Hurması Pekmezi,Sakarya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Geyve Ayvası,Sakarya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sakarya Abaza Acıkası,Sakarya,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Kocaali Hurma Kurusu,Sakarya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Adapazarı Dartılı Keşkek,Sakarya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Adapazarı Beyaz Kestane Kabağı,Sakarya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sapanca Cevizi,Sakarya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Adapazarı Kabak Tatlısı,Sakarya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Taraklı Uğut Tatlısı,Sakarya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Taraklı Enginarı,Sakarya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Pamukova Kavunu,Sakarya,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Pamukova Ceviz Ezmesi,Sakarya,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Sakarya Kazımpaşa Köftesi,Sakarya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Adapazarı Islama Köftesi,Sakarya,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sakarya Üre Tatlısı,Sakarya,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kocaali Çamdağı Kestane Balı,Sakarya,Bal,bal,326.0,2,1.4142135623730951
+Sakarya Abhaz (Abaza) Peyniri,Sakarya,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Çarşamba Kıvratması,Samsun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bafra Pidesi,Samsun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bafra Nokulu,Samsun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Terme Pidesi,Samsun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bafra Kaymaklı Lokum,Samsun,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Çarşamba Keşkeği,Samsun,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Samsun Simidi,Samsun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Samsun Kaz Tiridi,Samsun,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Salıpazarı Kestane Balı,Samsun,Bal,bal,326.0,2,1.4142135623730951
+Yakakent Mantısı,Samsun,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çarşamba Pidesi,Samsun,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çakallı Menemeni,Samsun,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Siirt Büryan Kebabı,Siirt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Siirt Gebole Tatlısı,Siirt,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Pervari Balı,Siirt,Bal,bal,326.0,2,1.4142135623730951
+Siirt Kuru Ekmeği,Siirt,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Siirt Perde Pilavı,Siirt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Siirt İçli Köftesi / Siirt Kiteli,Siirt,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tillo Heriresi,Siirt,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Siirt Fıstığı,Siirt,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sinop Nokulu,Sinop,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sinop Mantısı,Sinop,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sinop Lakerdası,Sinop,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Sinop Kestane Balı,Sinop,Bal,bal,326.0,2,1.4142135623730951
+Boyabat Sırık Kebabı,Sinop,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Boyabat Gazidere Domatesi,Sinop,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Koyulhisar Domatesi,Sivas,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gemerek Gilaburusu,Sivas,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Suşehri Kuru Fasulyesi,Sivas,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sivas Pastırması,Sivas,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Tonus Köftesi,Sivas,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Ulaş Etli Pidesi,Sivas,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gürün Dut Pekmezi,Sivas,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Zara Sac Ekmeği,Sivas,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Zara Balı,Sivas,Bal,bal,326.0,2,1.4142135623730951
+Sivas Katmeri,Sivas,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Sivas Köftesi,Sivas,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sivas Pezik Turşusu / Sivas Pezik Dal Turşusu,Sivas,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Divriği Pilavı /Alatlı Pilavı,Sivas,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ulaş Yaprak Döneri,Sivas,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Seymen Kavunu,Tekirdağ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Küçükyoncalı Keşkeği,Tekirdağ,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tekirdağ Peynir Helvası,Tekirdağ,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Hayrabolu Çerkezmüsellim Köftesi / Hayrabolu Çerkezmüsellim Pabuç Köftesi,Tekirdağ,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Çorlu Kuzu Ciğer Sarma,Tekirdağ,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hayrabolu Tatlısı,Tekirdağ,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Malkara Eski Kaşar Peyniri,Tekirdağ,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Velimeşe Bozası,Tekirdağ,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Tekirdağ Soğanı,Tekirdağ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tekirdağ Köftesi,Tekirdağ,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tekirdağ Bulama,Tekirdağ,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Tekirdağ Yapıncak Salamura Asma Yaprağı,Tekirdağ,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tokat Kebabı,Tokat,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erbaa Katmeri,Tokat,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Zile Pekmezi,Tokat,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Tokat Narince Salamura Asma Yaprağı,Tokat,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tokat Ekmeği,Tokat,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Zile Kömesi,Tokat,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Tokat Yağlısı,Tokat,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Tokat Üzüm Tarhanası,Tokat,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erbaa Narince Bağ Yaprağı,Tokat,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tokat Karayaka Kuzu Eti,Tokat,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Turhal Yoğurtmacı,Tokat,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Tokat Bez Sucuk,Tokat,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Niksar Cevizi,Tokat,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Reşadiye Kırmızı Pezik Turşusu,Tokat,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tokat Çöreği,Tokat,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Akçaabat Köftesi,Trabzon,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Hamsiköy Sütlacı,Trabzon,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Vakfıkebir Ekmeği,Trabzon,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Vakfıkebir Külek Peyniri,Trabzon,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Trabzon Kuymağı,Trabzon,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Arsin Foşa Fındığı,Trabzon,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Yomra Elması,Trabzon,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Sürmene Pidesi,Trabzon,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Tunceli Şorbik Çorbası,Tunceli,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Tunceli Sarımsağı,Tunceli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Munzur Balı,Tunceli,Bal,bal,326.0,2,1.4142135623730951
+Çemişgezek Ulukale Dutu,Tunceli,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Türk Rakısı,Türkiye,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Geleneksel Türk Kayısı Likörü,Türkiye,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Türk Defnesi,Türkiye,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Geleneksel Türk Çilek Likörü,Türkiye,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Geleneksel Türk Gül Likörü,Türkiye,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Geleneksel Türk Ahududu Likörü,Türkiye,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Rakı,Türkiye,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Geleneksel Türk Vişne Likörü,Türkiye,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Uşak Haşhaş Ezmesi,Uşak,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Uşak Helvası,Uşak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Uşak Gelin Helvası / Uşak Gelin Tatlısı,Uşak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Karahallı Ciğeri,Uşak,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Uşak Ulubey Zini Hamursuzu,Uşak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Uşak Tarhanası,Uşak,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karahallı Kavunu,Uşak,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Uşak Baklavası,Uşak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Van Kürt Köftesi,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çatak Cevizi,Van,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gevaş Fasulyesi,Van,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tandırda Van Balığı / Tandırda Van İnci Kefali,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Van Pastası,Van,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Van Tava Yemeği,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sıhke Kavunu,Van,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Van Keledoşu,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Van Sengeseri,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Van Otlu Peyniri,Van,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Bahçesaray Cevizi,Van,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Van Helise Yemeği,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Van Kahvaltısı,Van,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Van Gül Reçeli,Van,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Van Gölü İnci Kefali,Van,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Van Erişte Aşı,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Van Ayran Aşı,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Van Acem Köftesi,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Erciş Üzümü,Van,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Erciş Lahanası,Van,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Murtuğa,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Van Kavut,Van,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Yalova Kestane Balı,Yalova,Bal,bal,326.0,2,1.4142135623730951
+Yalova Aronyası,Yalova,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Yalova Kivisi,Yalova,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Akdağmadeni Salebi,Yozgat,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Yozgat Arabaşısı,Yozgat,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Yozgat Çanak Peyniri,Yozgat,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Yozgat Aydıncık Bağrıbütün Kavunu,Yozgat,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Yozgat Desti Kebabı,Yozgat,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Yozgat Parmak Çöreği,Yozgat,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Yozgat Tandır Kebabı,Yozgat,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Sorgun Yağlısı,Yozgat,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Gorgonzola,Yurtdışı,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Scotch Whisky (İskoç Viskisi),Yurtdışı,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Zivania / Zivaniya,Yurtdışı,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Grana Padano,Yurtdışı,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Douro,Yurtdışı,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Champagne,Yurtdışı,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Hellim / Halloumi,Yurtdışı,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Cognac,Yurtdışı,Biralar ve diğer alkollü içkiler,alkoller,190.0,3,100.6429331846007
+Parmigiano Reggiano (Parmesan Peyniri),Yurtdışı,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Prosciutto Di Parma (Parma Ham / Parma Jambonu),Yurtdışı,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Karadeniz Ereğli Osmanlı Çileği,Zonguldak,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Zonguldak Malay Yemeği,Zonguldak,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çaycuma Manda Yoğurdu,Zonguldak,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Devrek Kömeci/Devrek Cevizli Kömeci,Zonguldak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Devrek Kireni,Zonguldak,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Devrek Beyaz Baklavası / Devrek Baklavası,Zonguldak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Zonguldak Zılbıt Yemeği,Zonguldak,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Yenice Kırmızı Biberi,Çanakkale,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ezine Peyniri,Çanakkale,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Işıkeli Nohut Kahvesi,Çanakkale,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Bayramiç Tahin Helvası,Çanakkale,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bayramiç Elması,Çanakkale,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gelibolu Peynir Helvası,Çanakkale,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çanakkale Domatesi,Çanakkale,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Biga Pirinci,Çanakkale,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Bayramiç Beyazı,Çanakkale,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bozcaada Çavuş Üzümü,Çanakkale,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Lapseki Şeftalisi,Çanakkale,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Biga Peynir Tatlısı,Çanakkale,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Sarımsaklı Et,Çankırı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Şabanözü Cızlaması,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Eldivan Yağlı Çöreği,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şabanözü Bazlaması,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şabanözü Dondurma Helvası,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kurşunlu Çiçek Balı,Çankırı,Bal,bal,326.0,2,1.4142135623730951
+Çankırı Pıhtı,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çerkeş Pırasa Dolması,Çankırı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çankırı Ehlibilir,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çerkeş Kurabiyesi,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çerkeş Badıma Bükmesi,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Yumurta Tatlısı,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Yoka (İnce) Ekmek Muskası,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Yapraklı Panayır Helvası,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Yazma Çöreği,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Kıymalısı / Çankırı Kapalı Pidesi,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Küpecik Peyniri,Çankırı,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Çankırı Kesme Kadayıfı,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Kaya Tuzu,Çankırı,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Çankırı Höşmerim Tatlısı,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Hameyli Tatlısı,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Bütün Et,Çankırı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çerkeş Lokumu,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Cimcik Hamuru Çorbası,Çankırı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çerkeş Sırma Baklavası,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çerkeş Su Böreği,Çankırı,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çankırı Tutmaç Çorbası,Çankırı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Kurşunlu Keşkeği,Çankırı,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Eldivan Kirazı,Çankırı,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Alaca Yanıç Böreği,Çorum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Çorum Kuru Mantısı,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çorum Leblebisi,Çorum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çorum Yırtma Yemeği,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Osmancık Yaprak İçi Yemeği,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Osmancık Malak Tatlısı,Çorum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İskilip Çileği,Çorum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İskilip Turşusu,Çorum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Osmancık Kapari Turşusu,Çorum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İskilip Ramazan Keşkeği,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İskilip Dolması,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İskilip Sirke Salatası,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Osmancık Kaypak Yemeği,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İskilip Baklavası,Çorum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Alaca Borana Yemeği,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Alaca Hingali,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Alaca Mor Soğanı / Alaca Moru,Çorum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Alaca Cızlağı,Çorum,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Kışlacık Pırasası,Çorum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Osmancık Ayvalı Yahnisi,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Alaca Çılbır Yemeği,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Alaca Yarma Aşı,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Oğuzlar Cevizi,Çorum,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kargı Tulum Peyniri,Çorum,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Osmancık Yırtmaç Yemeği,Çorum,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+İstanbul Simidi,İstanbul,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şile Kestane Balı,İstanbul,Bal,bal,326.0,2,1.4142135623730951
+Silivri Yoğurdu,İstanbul,Peynirler ve tereyağı dışında kalan süt ürünleri,süt ürünleri,398.0,3,269.56817319557587
+Boğaziçi Lüferi,İstanbul,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Çatalca Ormanlı Pirinci,İstanbul,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Seferihisar Topan Karakılçık Buğdayı,İzmir,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Kavacık Üzümü,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çavuşdağı Kuru Fasulyesi,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Menemen Menemeni,İzmir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Bornova Kınalı Bamyası,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bergama Çığırtması,İzmir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Ödemiş Patatesi,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Ödemiş Nohut Mayalı Ekmeği,İzmir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ödemiş Köftesi,İzmir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Gökçealan Osmancık Üzümü,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bergama Tulum Peyniri,İzmir,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Torbalı Kuru Domatesi,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bergama Kozak Çam Fıstığı,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bornova Misket Üzümü,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Tire Şiş Köfte,İzmir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Çeşme Kavunu,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Çeşme Damla Sakızı,İzmir,"Yiyecekler için çeşni / lezzet vericiler, soslar ve tuz",yiyecekler için çeşni,211.66666666666666,9,142.38328553590833
+Bergama Köftesi,İzmir,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Seferihisar Mandalinası,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Gümüldür Mandalinası (Gümüldür Mandarini),İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İzmir Gevreği,İzmir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Bozdağ Kestane Şekeri,İzmir,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Beydağ Simit Dürüm,İzmir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ege İnciri,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kemalpaşa Kirazı,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Kınık Kuru Domatesi,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İzmir Boyozu,İzmir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Ege Sultani Üzümü,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Bademli Koruk Şerbeti,İzmir,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Arslanlar Biberi,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+İzmir Şambalisi,İzmir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İzmir Tulum Peyniri,İzmir,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+İzmir Lokması,İzmir,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+İzmir Kumrusu,İzmir,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urla Sakız Enginarı,İzmir,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Urfa Keten Köyneği Fıstığı / Şanlıurfa Keten Köyneği Fıstığı,Şanlıurfa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Urfa Pendirli Kedeyif / Şanlıurfa Peynirli Kadayıf,Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Urfa Kıymalı Söğürme / Şanlıurfa Kıymalı Söğürme,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa (Şanlıurfa) Külünçesi,Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Urfa Meyan Şerbeti (Biyanbalı),Şanlıurfa,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Suruç Narı,Şanlıurfa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Hasenik Pestili,Şanlıurfa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Urfa (Şanlıurfa) Frenk Çömleği,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa (Şanlıurfa) Lahmacunu (Kıymalı Ekmeği),Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Urfa (Şanlıurfa) Patlıcanlı Kebabı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa (Şanlıurfa) Pencer (Pazı) Boranısı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa (Şanlıurfa) Su Kabağı Yemeği,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa (Şanlıurfa) Üzlemeli Pilavı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa (Şanlıurfa) İsot Çömleği,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Aya Köftesi / Şanlıurfa Aya Köftesi,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Karaköprü Narı,Şanlıurfa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Urfa Ağzı Açık / Şanlıurfa Ağzı Açık,Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Birecik Patlıcanı,Şanlıurfa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Şanlıurfa Çiğ Köfte,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Şanlıurfa Tırnaklı Ekmeği,Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şanlıurfa Açık Ekmeği (Urfa Açık Ekmeği),Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şanlıurfa Ağzı Yumıh / Şanlıurfa Ağzı Yumuk,Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şanlıurfa Bostanası / Bostana,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Şanlıurfa Lolaz Dürmiği/Şanlıurfa Lolaz Dürümü,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Şanlıurfa Pendirli Helvası / Şanlıurfa Peynirli Helvası,Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şanlıurfa Tepsi Kebabı / Urfa Tepsi Kebabı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Şanlıurfa Biberi,Şanlıurfa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Urfa Şıllık Tatlısı (Şanlıurfa Şıllık Tatlısı),Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Karaköprü Tat Karpuzu,Şanlıurfa,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Siverek Tavası,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Eşkili,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Sini Darahlığı/ Şanlıurfa Sini Taraklığı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Miftahi Tas Kebabı/ Şanlıurfa Miftahi Tas Kebabı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Lebenisi,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Peyniri / Şanlıurfa Peyniri,Şanlıurfa,Peynirler,peynir,341.85714285714283,7,44.149098033174546
+Urfa Sac Kavurması / Şanlıurfa Sac Kavurması,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Kazan Kebabı / Şanlıurfa Kazan Kebabı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Soğan Kebabı / Şanlıurfa Soğan Kebabı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Yumurtalı Köfte,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Zerdesi (Şanlıurfa Zerdesi),Şanlıurfa,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Urfa İçli Köftesi,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Keme Boranısı Yemeği/Şanlıurfa Keme Boranısı Yemeği,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Ciğer Kebabı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Haşhaş Kebabı / Şanlıurfa Haşhaş Kebabı,Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Urfa Tiriti (Şanlıurfa Tiriti),Şanlıurfa,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Beytüşşebap Balı,Şırnak,Bal,bal,326.0,2,1.4142135623730951
+Cizre Luzine Tatlısı,Şırnak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Cizre Meyre / Cizre Mehir,Şırnak,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Şırnak Soryaz,Şırnak,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Cizre Bırınczer,Şırnak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Cizre Memilheva Kurabiyesi,Şırnak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Cizre Leyminete / Limonata,Şırnak,Alkolsüz içecekler,soft içecekler,72.57142857142857,7,92.75569549962442
+Silopi Behnat İnciri,Şırnak,İşlenmiş ve işlenmemiş meyve ve sebzeler ile mantarlar,sebze ve meyve,195.3793103448276,29,226.89006365467324
+Şımşıpe,Şırnak,"Fırıncılık ve pastacılık mamulleri, hamur işleri, tatlılar",hamurişi tatlı,299.6842105263158,19,88.39812254892882
+Şırnak Hanuhin / Şırnak Hanuhin Tatlısı,Şırnak,"Çikolata, şekerleme ve türevi ürünler",çikolata/şeker,395.75,8,95.46839417165393
+Şırnak Dergul Tahini,Şırnak,Diğer ürünler,diğer,356.8,15,145.07791010350266
+Ayvalık Tostu,,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Döner,,İşlenmiş ve işlenmemiş et ürünleri,işlenmiş et,251.875,8,127.37283574496678
+Ezo Gelin Çorbası,,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
+Türk Çam Balı,,Bal,bal,326.0,2,1.4142135623730951
+Şevketi Bostan / Şevket-i Bostan,,Yemekler ve çorbalar,yemekler ve çorbalar,211.11764705882354,17,101.90306812906884
