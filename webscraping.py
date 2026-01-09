@@ -157,23 +157,26 @@ if rows:
     
     print("Saved: iklim_mgm_1991_2020.csv")
     # --- Preview the generated CSV in the notebook ---
-   # print("\n=== Preview: iklim_mgm_1991_2020.csv ===")
-    #print("Shape:", out.shape)
-    #display(out.head(10))          # first 10 rows
+    print("\n=== Preview: iklim_mgm_1991_2020.csv ===")
+    print("Shape:", out.shape)
+    display(out.head(10))          # first 10 rows
 
-   # print("\nColumns:", list(out.columns))
-    #display(out.tail(5))           # last 5 rows (optional)
+    print("\nColumns:", list(out.columns))
+    display(out.tail(5))           # last 5 rows (optional)
 
-    # Quick sanity checks
-    #print("\nMissing values (top):")
-    #display(out.isna().sum().sort_values(ascending=False).head(10))
+     Quick sanity checks
+    print("\nMissing values (top):")
+    display(out.isna().sum().sort_values(ascending=False).head(10))
 
-    #print("\nBasic stats:")
-    #display(out[["temp_annual_mean", "prec_annual_total"]].describe())
+    print("\nBasic stats:")
+    display(out[["temp_annual_mean", "prec_annual_total"]].describe())
 
 
 if failed:
     pd.DataFrame(failed).to_csv("iklim_failed.csv", index=False, encoding="utf-8-sig")
-    #print("Saved: iklim_failed.csv")
-    #display(pd.DataFrame(failed).head(15))
+    print("Saved: iklim_failed.csv")
+    display(pd.DataFrame(failed).head(15))
 
+#This code is for web scraping of province-level climate data from MGM's website, by automatically visiting each page of a province and getting the monthly average temperature and monthly total precipitation averages of the 1991-2020 period. 
+ 
+#By using these monthly values, annual mean temperature and annual total precipitation are calculated. Then, the final dataset is saved as a CSV file, whereas provinces that fail during scraping are logged separately.
