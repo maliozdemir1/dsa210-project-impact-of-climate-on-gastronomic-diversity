@@ -1,4 +1,4 @@
-# Climate vs Caloric Density of Turkish Geographical Indication Foods  
+# Impact of Climate and Weather Conditions on Regional Gastronomic Diversity in Turkey
 ## Final Report
 
 ---
