@@ -1,0 +1,9 @@
+numpy
+pandas
+openpyxl
+matplotlib
+scipy
+scikit-learn
+requests
+beautifulsoup4
+lxml
